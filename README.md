@@ -1,4 +1,4 @@
-# Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
+## Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-
 #### NAME:HEMADHARSHINI M
 #### DATE:27-04-2024
 #### REGISTER NUMBER: 212222040053
